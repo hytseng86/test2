@@ -13,7 +13,7 @@ col<-c("country","year","production","price","export_quantity","export_value","i
        "import_value","global_import_value","global_import_quantity","global_export_value","GDP",
        "population","Taiwan_export_value","Taiwan_tariff","country1_tariff","country2_tariff",
        "country3_tariff","country4_tariff","country5_tariff","Taiwan_market_export_value","Taiwan_matket_distance")
-path<-"~/"
+path<-"/test2/"
 
 ui <- fluidPage(
   
